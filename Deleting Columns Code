@@ -1,0 +1,9 @@
+#We found the most important lifestyle attributes 
+#These attributes are Study_Hours_Per_Day, GPA, Extracurricular_Hours_Per_Day
+#The code below deletes the other four attributes irrlevant to our work
+
+import pandas as pd
+df = pd.read_csv('student_lifestyle_dataset_modified.csv')
+df = df.drop(columns = ['Student_ID', 'Sleep_Hours_Per_Day', 'Physical_Activity_Hours_Per_Day', 'Social_Hours_Per_Day'])
+df.to_csv('student_lifestyle_dataset_modified.csv', index=False)
+print(df.head())
