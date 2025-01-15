@@ -13,3 +13,5 @@ Our goals for this project are:
 * implementing the model 
 * refining the model for accuracy (stretch)
 * implement a user interface (stretch)
+
+change 1: Trying merge branch
