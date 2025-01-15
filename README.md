@@ -13,4 +13,3 @@ Our goals for this project are:
 * implementing the model 
 * refining the model for accuracy (stretch)
 * implement a user interface (stretch)
-* delete this after just a test for the lab 
