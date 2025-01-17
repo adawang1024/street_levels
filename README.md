@@ -7,11 +7,11 @@ This project gives an analysis of 2000 college students lifestyle habits and the
 ## Goals 
 
 Our goals for this project are: 
-* exploring/analyzing the data set 
-* recognizing/categorizing trends 
-* implementing the model 
-* refining the model for accuracy (stretch)
-* implement a user interface (stretch)
+* Gain insights into the dataset by identifying patterns, trends, and relationships among variables
+* Being able to idenitfy relevant variables that affect the variable we are analyzing 
+* Develop machine learning models to predict stress levels based on lifestyle habits
+* Refining the model for accuracy (stretch)
+* Build a user interface for interactive stress level predictions (stretch)
 
 ## Process
 
