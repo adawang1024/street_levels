@@ -29,5 +29,3 @@ We made a Python script that predicts an individual's stress level based on dail
 
 4. **View Prediction**: The script will output the predicted stress level based on the inputs provided.
 
-Example of running the script and input/output:
-![Output](images/your-image-name.png)
