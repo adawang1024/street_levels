@@ -1,7 +1,7 @@
 # stress_levels
 
 ## About 
-This project gives an analysis of 2000 college students lifestyle habits and their corresponding stress levels, using various models. 
+This project gives an analysis of 2000 college students lifestyle habits and their corresponding stress levels, using various models. By leveraging machine learning models, the project identifies patterns in the data and predicts individual stress levels as either high, moderate, or low based on lifestyle habits.
 ## Goals 
 Our goals for this project are: 
 * exploring/analyzing the data set 
