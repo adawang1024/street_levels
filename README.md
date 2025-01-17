@@ -1,7 +1,7 @@
 # Stress Level Prediction
 
 ## About 
-
+Kaggle Dataset: https://www.kaggle.com/datasets/steve1215rogg/student-lifestyle-dataset
 This project gives an analysis of 2000 college students lifestyle habits and their corresponding stress levels, using various models. By leveraging machine learning models, the project identifies patterns in the data and predicts individual stress levels as either high, moderate, or low based on lifestyle habits.
 
 ## Goals 
@@ -24,7 +24,6 @@ Finally, we shifted our focus to model building. Using the dataset, we trained a
 ## Models
 
 We implemented 4 models: 
-We implemented 4 models:
 - **Logistic Regression**: A simple and interpretable model that uses a linear decision boundary to classify stress levels. It achieves good performance with scaled features.
 - **Decision Tree**: A non-parametric model that splits the dataset into branches based on feature values, achieving perfect accuracy on the given dataset but with a risk of overfitting.
 - **Random Forest**: An ensemble learning method that combines multiple decision trees to improve accuracy and reduce overfitting. It also achieved perfect accuracy on this dataset, benefiting from its aggregation of trees.
