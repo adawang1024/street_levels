@@ -1,4 +1,4 @@
-# stress_levels
+# Stress Level Prediction
 
 ## About 
 
