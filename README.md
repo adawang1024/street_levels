@@ -2,7 +2,7 @@
 
 ## About 
 
-This project gives an analysis of 2000 college students lifestyle habits and their corresponding stress levels, using various models. 
+This project gives an analysis of 2000 college students lifestyle habits and their corresponding stress levels, using various models. By leveraging machine learning models, the project identifies patterns in the data and predicts individual stress levels as either high, moderate, or low based on lifestyle habits.
 
 ## Goals 
 
@@ -26,3 +26,18 @@ Finally, we shifted our focus to model building. Using the dataset, we trained a
 We implemented both a decision tree and a support vector machine that allowed the model to categorize each individual. 
 
 ## Usage 
+
+## Interactive prediction tool
+## Usage
+We made a Python script that predicts an individual's stress level based on daily activities and GPA using a pre-trained decision tree model. To use the script:
+1. **Setup**: Ensure the `dt_model.joblib` file is in the same directory as the script. Install required libraries if needed: pip install joblib
+2. **Running the Script**: Execute the script from the command line: python stress_predictor.py
+3. **Input Data**: Enter the following information when prompted:
+- Daily study hours
+- Daily sleep hours
+- Daily social hours
+- Daily physical activity hours
+- GPA
+
+4. **View Prediction**: The script will output the predicted stress level based on the inputs provided.
+
