@@ -27,6 +27,9 @@ We implemented both a decision tree and a support vector machine that allowed th
 
 ## Usage 
 
+Python 3.x
+Libraries: pandas, numpy, matplotlib, seaborn, scikit-learn
+
 ## Interactive prediction tool
 ## Usage
 We made a Python script that predicts an individual's stress level based on daily activities and GPA using a pre-trained decision tree model. To use the script:
