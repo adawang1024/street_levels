@@ -1,4 +1,5 @@
 # Stress Level Prediction
+Kaggle Dataset: https://www.kaggle.com/datasets/steve1215rogg/student-lifestyle-dataset
 
 ## About 
 Kaggle Dataset: https://www.kaggle.com/datasets/steve1215rogg/student-lifestyle-dataset
